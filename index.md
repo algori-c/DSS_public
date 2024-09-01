@@ -1,4 +1,4 @@
-# LOC Orders and Parameters for SOXL - 2024-08-31
+# LOC Orders and Parameters for SOXL - 2024-09-01
 
 ## Daily Summary
 
@@ -24,7 +24,7 @@
 - **Minus Compound Rate:** 0.3
 - **Commission Rate:** 0.0002
 - **Trading Start Date:** 2024-08-01
-- **Trading End Date:** 2024-08-31
-- **Trading Duration:** 30 days
+- **Trading End Date:** 2024-09-01
+- **Trading Duration:** 31 days
 
-updated on 2024-08-31 03:30:40.601498
+updated on 2024-09-01 03:38:39.062383
