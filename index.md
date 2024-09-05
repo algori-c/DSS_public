@@ -1,10 +1,10 @@
-# LOC Orders and Parameters for SOXL - 2024-09-04
+# LOC Orders and Parameters for SOXL - 2024-09-05
 
 ## Daily Summary
 
 - **Today's Mode:** aggressive
-- **Current Account Value:** $107354.65
-- **Available Cash:** $84441.31
+- **Current Account Value:** $107526.95
+- **Available Cash:** $69651.95
 
 ## Orders
 
@@ -12,7 +12,8 @@
 |------|-------|----------|--------|----------|
 | SELL LOC | 39.45 | 384 | Target price | 2024-09-04 |
 | SELL LOC | 30.82 | 378 | Target price | 2024-09-11 |
-| BUY LOC | 31.57 | 488 | New position | Today |
+| SELL LOC | 31.06 | 488 | Target price | 2024-09-12 |
+| BUY LOC | 31.81 | 484 | New position | Today |
 
 ## All Parameters
 
@@ -25,7 +26,7 @@
 - **Minus Compound Rate:** 0.3
 - **Commission Rate:** 0.0002
 - **Trading Start Date:** 2024-08-01
-- **Trading End Date:** 2024-09-04
-- **Trading Duration:** 34 days
+- **Trading End Date:** 2024-09-05
+- **Trading Duration:** 35 days
 
-updated on 2024-09-04 03:31:26.697479
+updated on 2024-09-05 03:31:53.619797
