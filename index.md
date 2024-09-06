@@ -2,19 +2,19 @@
 
 ## Daily Summary
 
-- **Today's Mode:** aggressive
-- **Current Account Value:** $106836.57
-- **Available Cash:** $55250.07
+- **Today's Mode:** safe
+- **Current Account Value:** $100259.88
+- **Available Cash:** $52415.60
 
 ## Orders
 
 | Type | Price | Quantity | Reason | Deadline |
 |------|-------|----------|--------|----------|
-| SELL MOC | 0.0 | 384 | Max holding period reached | Today |
 | SELL LOC | 30.82 | 378 | Target price | 2024-09-11 |
 | SELL LOC | 31.06 | 488 | Target price | 2024-09-12 |
 | SELL LOC | 30.49 | 484 | Target price | 2024-09-13 |
-| BUY LOC | 31.24 | 493 | New position | Today |
+| SELL LOC | 26.61 | 493 | Target price | 2024-09-16 |
+| BUY LOC | 26.74 | 576 | New position | Today |
 
 ## All Parameters
 
@@ -30,4 +30,4 @@
 - **Trading End Date:** 2024-09-06
 - **Trading Duration:** 36 days
 
-updated on 2024-09-06 03:32:11.800379
+updated on 2024-09-06 23:47:14.452460
