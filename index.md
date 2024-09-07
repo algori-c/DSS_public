@@ -1,33 +1,37 @@
-# LOC Orders and Parameters for SOXL - 2024-09-06
+# SOXL에 대한 LOC 주문 및 매개변수 - 2024-09-07
 
-## Daily Summary
+# 일일 요약
 
-- **Today's Mode:** safe
-- **Current Account Value:** $100259.88
-- **Available Cash:** $52415.60
+- **오늘의 모드:** safe
+- **현재 계좌 평가액:** $100259.88
+- **사용 가능 현금:** $52415.60
 
-## Orders
+## 주문
 
-| Type | Price | Quantity | Reason | Deadline |
-|------|-------|----------|--------|----------|
-| SELL LOC | 30.82 | 378 | Target price | 2024-09-11 |
-| SELL LOC | 31.06 | 488 | Target price | 2024-09-12 |
-| SELL LOC | 30.49 | 484 | Target price | 2024-09-13 |
-| SELL LOC | 26.61 | 493 | Target price | 2024-09-16 |
-| BUY LOC | 26.74 | 576 | New position | Today |
+| 유형 | 가격 | 수량 | 이유 | 기한 | 매수일 | 매수가격 | 매수모드 |
+|------|------|------|------|------|--------|----------|----------|
+| SELL LOC | 30.82 | 378 | 최대보유기간 전 | 2024-09-11 | 2024-09-03 | 30.07 | 공세 |
+| SELL LOC | 31.06 | 488 | 최대보유기간 전 | 2024-09-12 | 2024-09-04 | 30.3 | 공세 |
+| SELL LOC | 30.49 | 484 | 최대보유기간 전 | 2024-09-13 | 2024-09-05 | 29.75 | 공세 |
+| SELL LOC | 26.61 | 493 | 최대보유기간 전 | 2024-09-16 | 2024-09-06 | 25.96 | 공세 |
+| BUY LOC | 26.74 | 576 | 1회분 매수 | 오늘 | - | - | - |
 
-## All Parameters
+## 모든 매개변수
 
-- **Symbol:** SOXL
+- **종목:** SOXL
 - **RSI ETF:** QQQ
-- **Safe Mode Parameters:** (7, 30, 3, 0.2)
-- **Aggressive Mode Parameters:** (7, 7, 5, 2.5)
-- **Initial Capital:** $100000
-- **Compound Rate:** 0.8
-- **Minus Compound Rate:** 0.3
-- **Commission Rate:** 0.0002
-- **Trading Start Date:** 2024-08-01
-- **Trading End Date:** 2024-09-06
-- **Trading Duration:** 36 days
+- **안전 모드 매개변수:** (7, 30, 3, 0.2)
+- **공격적 모드 매개변수:** (7, 7, 5, 2.5)
+- **초기 자본:** $100000
+- **복리 비율:** 0.8
+- **마이너스 복리 비율:** 0.3
+- **수수료율:** 0.0002
+- **거래 시작일:** 2024-08-01
+- **거래 종료일:** 2024-09-07
+- **거래 기간:** 37일
 
-updated on 2024-09-06 23:47:14.452460
+2024-09-07 01:43:41.204574 에 업데이트됨
+
+## DSS 그래프
+
+![DSS Graph](DSS_graph.png)
