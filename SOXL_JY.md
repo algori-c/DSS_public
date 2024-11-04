@@ -1,4 +1,4 @@
-# SOXL LOC Orders and Parameters - 2024-11-04
+# SOXL_JY LOC Orders and Parameters - 2024-11-04
 
 # Daily Summary
 
@@ -37,4 +37,4 @@
 - **Trading End Date:** 2024-11-04
 - **Trading Period:** 38 days
 
-Updated at 2024-11-04 03:53:50.246613
+Updated at 2024-11-04 03:59:21.186935
