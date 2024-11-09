@@ -1,22 +1,25 @@
-# SOXL_SM LOC Orders and Parameters - 2024-11-08
+# SOXL_SM LOC Orders and Parameters - 2024-11-09
 
 # Daily Summary
 
 - **Today's Mode:** aggressive
 - **Current Account Value:** $340989.44
-- **Available Cash:** $340989.44
+- **Available Cash:** $296585.30
 
 ## Original Orders
 
 | SIDE | Type | Price | Quantity | Deadline | Buy Date | Buy Price | Buy Mode |
 |------|------|-------|----------|----------|----------|-----------|----------|
-| BUY | LOC | 38.0 | 1254 | 오늘 | - | - | - |
+| SELL | LOC | 36.28 | 1254 | 2024-11-19 | 2024-11-08 | 35.41 | 공세 |
+| BUY | LOC | 37.16 | 1282 | 오늘 | - | - | - |
 
 ## De-duplicated Orders
 
 | Side | Type | Price | Quantity |
 |------|------|-------|----------|
-| BUY | LOC | 38.0 | 1254 |
+| SELL | LOC | 37.17 | 1254 |
+| BUY | LOC | 37.16 | 28 |
+| BUY | LOC | 36.27 | 1254 |
 
 ## All Parameters
 
@@ -29,7 +32,7 @@
 - **Loss Compound Rate:** 30.0%
 - **Commission Rate:** 0.0%
 - **Trading Start Date:** 2024-09-27
-- **Trading End Date:** 2024-11-08
-- **Trading Period:** 42 days
+- **Trading End Date:** 2024-11-09
+- **Trading Period:** 43 days
 
-Updated at 2024-11-08 03:16:01.064850
+Updated at 2024-11-09 03:15:31.632676
