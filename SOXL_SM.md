@@ -1,4 +1,4 @@
-# SOXL_SM LOC Orders and Parameters - 2024-11-28
+# SOXL_SM LOC Orders and Parameters - 2024-11-29
 
 # Daily Summary
 
@@ -34,7 +34,7 @@
 - **Loss Compound Rate:** 30.0%
 - **Commission Rate:** 0.0%
 - **Trading Start Date:** 2024-09-27
-- **Trading End Date:** 2024-11-28
-- **Trading Period:** 62 days
+- **Trading End Date:** 2024-11-29
+- **Trading Period:** 63 days
 
-Updated at 2024-11-28 03:28:45.124697
+Updated at 2024-11-29 03:28:25.351628
