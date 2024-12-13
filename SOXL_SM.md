@@ -1,10 +1,10 @@
-# SOXL_SM LOC Orders and Parameters - 2024-12-12
+# SOXL_SM LOC Orders and Parameters - 2024-12-13
 
 # Daily Summary
 
 - **Today's Mode:** safe
-- **Current Account Value:** $333838.67
-- **Available Cash:** $241761.23
+- **Current Account Value:** $331751.75
+- **Available Cash:** $196026.01
 
 ## Original Orders
 
@@ -12,16 +12,18 @@
 |------|------|-------|----------|----------|----------|-----------|----------|
 | SELL | LOC | 29.65 | 1581 | 2025-01-13 | 2024-12-06 | 29.61 | 안전 |
 | SELL | LOC | 29.27 | 1581 | 2025-01-14 | 2024-12-09 | 29.23 | 안전 |
-| BUY | LOC | 29.7 | 1607 | 오늘 | - | - | - |
+| SELL | LOC | 28.5 | 1607 | 2025-01-17 | 2024-12-12 | 28.46 | 안전 |
+| BUY | LOC | 29.03 | 1644 | 오늘 | - | - | - |
 
 ## De-duplicated Orders
 
 | Side | Type | Price | Quantity |
 |------|------|-------|----------|
-| SELL | LOC | 29.71 | 1607 |
-| SELL | LOC | 29.65 | 1555 |
-| BUY | LOC | 29.64 | 26 |
-| BUY | LOC | 29.26 | 1581 |
+| SELL | LOC | 29.65 | 1581 |
+| SELL | LOC | 29.27 | 1581 |
+| SELL | LOC | 29.04 | 1607 |
+| BUY | LOC | 29.03 | 37 |
+| BUY | LOC | 28.49 | 1607 |
 
 ## All Parameters
 
@@ -34,7 +36,7 @@
 - **Loss Compound Rate:** 30.0%
 - **Commission Rate:** 0.0%
 - **Trading Start Date:** 2024-09-27
-- **Trading End Date:** 2024-12-12
-- **Trading Period:** 76 days
+- **Trading End Date:** 2024-12-13
+- **Trading Period:** 77 days
 
-Updated at 2024-12-12 03:30:46.932106
+Updated at 2024-12-13 03:32:10.545993
