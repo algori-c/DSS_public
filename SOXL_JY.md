@@ -3,8 +3,8 @@
 # Daily Summary
 
 - **Today's Mode:** safe
-- **Current Account Value:** $238644.53
-- **Available Cash:** $176473.73
+- **Current Account Value:** $234277.33
+- **Available Cash:** $145467.43
 
 ## Original Orders
 
@@ -12,16 +12,18 @@
 |------|------|-------|----------|----------|----------|-----------|----------|
 | SELL | LOC | 31.2 | 990 | 2025-02-11 | 2025-01-07 | 31.15 | 안전 |
 | SELL | LOC | 30.23 | 1070 | 2025-02-12 | 2025-01-08 | 30.18 | 안전 |
-| BUY | LOC | 30.78 | 1105 | 오늘 | - | - | - |
+| SELL | LOC | 28.1 | 1105 | 2025-02-14 | 2025-01-10 | 28.06 | 안전 |
+| BUY | LOC | 28.62 | 1188 | 오늘 | - | - | - |
 
 ## De-duplicated Orders
 
 | Side | Type | Price | Quantity |
 |------|------|-------|----------|
 | SELL | LOC | 31.2 | 990 |
-| SELL | LOC | 30.79 | 1070 |
-| BUY | LOC | 30.78 | 35 |
-| BUY | LOC | 30.22 | 1070 |
+| SELL | LOC | 30.23 | 1070 |
+| SELL | LOC | 28.63 | 1105 |
+| BUY | LOC | 28.62 | 83 |
+| BUY | LOC | 28.09 | 1105 |
 
 ## All Parameters
 
@@ -37,4 +39,4 @@
 - **Trading End Date:** 2025-01-10
 - **Trading Period:** 105 days
 
-Updated at 2025-01-10 03:19:31.711551
+Updated at 2025-01-10 22:11:43.019544
