@@ -1,4 +1,4 @@
-# SOXL_JY LOC Orders and Parameters - 2025-02-01
+# SOXL_JY LOC Orders and Parameters - 2025-02-02
 
 # Daily Summary
 
@@ -35,7 +35,7 @@
 - **Loss Compound Rate:** 30.0%
 - **Commission Rate:** 0.0%
 - **Trading Start Date:** 2024-09-27
-- **Trading End Date:** 2025-02-01
-- **Trading Period:** 127 days
+- **Trading End Date:** 2025-02-02
+- **Trading Period:** 128 days
 
-Updated at 2025-02-01 03:16:46.934888
+Updated at 2025-02-02 03:15:03.391873
