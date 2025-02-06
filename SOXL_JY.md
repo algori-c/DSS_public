@@ -1,27 +1,22 @@
-# SOXL_JY LOC Orders and Parameters - 2025-02-05
+# SOXL_JY LOC Orders and Parameters - 2025-02-06
 
 # Daily Summary
 
 - **Today's Mode:** aggressive
-- **Current Account Value:** $232457.74
-- **Available Cash:** $165572.74
+- **Current Account Value:** $236150.37
+- **Available Cash:** $236150.37
 
 ## Original Orders
 
 | SIDE | Type | Price | Quantity | Deadline | Buy Date | Buy Price | Buy Mode |
 |------|------|-------|----------|----------|----------|-----------|----------|
-| SELL | LOC | 27.68 | 1237 | 2025-02-10 | 2025-01-31 | 27.02 | 공세 |
-| SELL | LOC | 26.89 | 1311 | 2025-02-12 | 2025-02-04 | 26.25 | 공세 |
-| BUY | LOC | 27.55 | 1279 | 오늘 | - | - | - |
+| BUY | LOC | 29.07 | 1212 | 오늘 | - | - | - |
 
 ## De-duplicated Orders
 
 | Side | Type | Price | Quantity |
 |------|------|-------|----------|
-| SELL | LOC | 27.68 | 1237 |
-| SELL | LOC | 27.56 | 1279 |
-| SELL | LOC | 26.89 | 32 |
-| BUY | LOC | 26.88 | 1279 |
+| BUY | LOC | 29.07 | 1212 |
 
 ## All Parameters
 
@@ -34,7 +29,7 @@
 - **Loss Compound Rate:** 30.0%
 - **Commission Rate:** 0.0%
 - **Trading Start Date:** 2024-09-27
-- **Trading End Date:** 2025-02-05
-- **Trading Period:** 131 days
+- **Trading End Date:** 2025-02-06
+- **Trading Period:** 132 days
 
-Updated at 2025-02-05 03:15:39.359595
+Updated at 2025-02-06 03:15:33.208261
