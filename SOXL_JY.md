@@ -11,15 +11,15 @@
 | SIDE | Type | Price | Quantity | Deadline | Buy Date | Buy Price | Buy Mode |
 |------|------|-------|----------|----------|----------|-----------|----------|
 | SELL | LOC | 32.24 | 1198 | 2025-02-27 | 2025-02-19 | 31.47 | 공세 |
-| BUY | LOC | 33.03 | 1549 | 오늘 | - | - | - |
+| BUY | LOC | 33.03 | 1142 | 오늘 | - | - | - |
 
 ## De-duplicated Orders
 
 | Side | Type | Price | Quantity |
 |------|------|-------|----------|
-| SELL | LOC | 33.04 | 1198 |
-| BUY | LOC | 33.03 | 351 |
-| BUY | LOC | 32.23 | 1198 |
+| SELL | LOC | 33.04 | 1142 |
+| SELL | LOC | 32.24 | 56 |
+| BUY | LOC | 32.23 | 1142 |
 
 ## All Parameters
 
@@ -35,4 +35,4 @@
 - **Trading End Date:** 2025-02-20
 - **Trading Period:** 19 days
 
-Updated at 2025-02-20 03:17:12.882651
+Updated at 2025-02-20 11:59:15.606743
