@@ -15,16 +15,18 @@
 | SELL | LOC | 29.52 | 2187 | 2025-02-27 | 2025-02-21 | 28.81 | 공세 |
 | SELL | LOC | 27.42 | 2406 | 2025-02-28 | 2025-02-24 | 26.76 | 공세 |
 | SELL | LOC | 25.68 | 2591 | 2025-03-03 | 2025-02-25 | 25.07 | 공세 |
+| BUY | LOC | 26.31 | 1501 | 오늘 | - | - | - |
 
 ## De-duplicated Orders
 
 | Side | Type | Price | Quantity |
 |------|------|-------|----------|
-| SELL | MOC | 0.0 | 2312 |
 | SELL | LOC | 32.48 | 2203 |
 | SELL | LOC | 29.52 | 2187 |
 | SELL | LOC | 27.42 | 2406 |
+| SELL | LOC | 26.32 | 1501 |
 | SELL | LOC | 25.68 | 2591 |
+| SELL | MOC | 0.0 | 811 |
 
 ## All Parameters
 
@@ -40,4 +42,4 @@
 - **Trading End Date:** 2025-02-26
 - **Trading Period:** 25 days
 
-Updated at 2025-02-26 03:19:27.168926
+Updated at 2025-02-26 04:29:49.207519
