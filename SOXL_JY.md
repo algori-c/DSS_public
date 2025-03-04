@@ -3,37 +3,33 @@
 # Daily Summary
 
 - **Today's Mode:** aggressive
-- **Current Account Value:** $301620.04
-- **Available Cash:** $84829.34
+- **Current Account Value:** $334571.86
+- **Available Cash:** $223243.58
 
 ## Original Orders
 
 | SIDE | Type | Price | Quantity | Deadline | Buy Date | Buy Price | Buy Mode |
 |------|------|-------|----------|----------|----------|-----------|----------|
-| SELL | MOC | 0.0 | 1700 | 오늘 | 2025-02-21 | 28.81 | 공세 |
-| SELL | LOC | 27.42 | 1871 | 2025-03-04 | 2025-02-24 | 26.76 | 공세 |
-| SELL | LOC | 26.93 | 2150 | 2025-03-06 | 2025-02-26 | 26.29 | 공세 |
-| SELL | LOC | 23.29 | 2478 | 2025-03-10 | 2025-02-28 | 22.73 | 공세 |
-| SELL | LOC | 21.01 | 2371 | 2025-03-11 | 2025-03-03 | 20.51 | 공세 |
-| BUY | LOC | 21.53 | 2594 | 오늘 | - | - | - |
+| SELL | MOC | 0.0 | 1145 | 오늘 | 2025-02-21 | 28.81 | 공세 |
+| SELL | LOC | 27.42 | 1889 | 2025-03-04 | 2025-02-24 | 26.76 | 공세 |
+| SELL | LOC | 21.01 | 2394 | 2025-03-11 | 2025-03-03 | 20.51 | 공세 |
+| BUY | LOC | 21.32 | 2644 | 오늘 | - | - | - |
 
 ## De-duplicated Orders
 
 | Side | Type | Price | Quantity |
 |------|------|-------|----------|
-| SELL | LOC | 27.42 | 1871 |
-| SELL | LOC | 26.93 | 2150 |
-| SELL | LOC | 23.29 | 2478 |
-| SELL | LOC | 21.54 | 2594 |
-| SELL | LOC | 21.01 | 1477 |
-| BUY | LOC | 21.0 | 894 |
+| SELL | LOC | 27.42 | 1889 |
+| SELL | LOC | 21.33 | 2644 |
+| SELL | LOC | 21.01 | 895 |
+| BUY | LOC | 21.0 | 1499 |
 
 ## All Parameters
 
 - **Symbol:** SOXL
 - **RSI ETF:** QQQ
 - **Safe Mode Parameters:** (7, 25, 2.95, 0.15)
-- **Aggressive Mode Parameters:** (7, 7, 4.95, 2.45)
+- **Aggressive Mode Parameters:** (7, 7, 3.95, 2.45)
 - **Initial Capital:** $350000
 - **Profit Compound Rate:** 80.0%
 - **Loss Compound Rate:** 30.0%
@@ -42,4 +38,4 @@
 - **Trading End Date:** 2025-03-04
 - **Trading Period:** 31 days
 
-Updated at 2025-03-04 03:22:30.566205
+Updated at 2025-03-04 08:38:00.635373
