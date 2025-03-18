@@ -1,4 +1,4 @@
-# SOXL_SM LOC Orders and Parameters - 2025-03-17
+# SOXL_SM LOC Orders and Parameters - 2025-03-18
 
 # Daily Summary
 
@@ -10,13 +10,13 @@
 
 | SIDE | Type | Price | Quantity | Deadline | Buy Date | Buy Price | Buy Mode |
 |------|------|-------|----------|----------|----------|-----------|----------|
-| BUY | LOC | 20.38 | 2200 | 오늘 | - | - | - |
+| BUY | LOC | 21.4 | 2084 | 오늘 | - | - | - |
 
 ## De-duplicated Orders
 
 | Side | Type | Price | Quantity |
 |------|------|-------|----------|
-| BUY | LOC | 20.38 | 2200 |
+| BUY | LOC | 21.4 | 2084 |
 
 ## All Parameters
 
@@ -29,7 +29,7 @@
 - **Loss Compound Rate:** 30.0%
 - **Commission Rate:** 0.0%
 - **Trading Start Date:** 2025-02-01
-- **Trading End Date:** 2025-03-17
-- **Trading Period:** 44 days
+- **Trading End Date:** 2025-03-18
+- **Trading Period:** 45 days
 
-Updated at 2025-03-17 03:26:45.952670
+Updated at 2025-03-18 03:25:50.795076
