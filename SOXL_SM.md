@@ -1,9 +1,9 @@
-# SOXL_SM LOC Orders and Parameters - 2025-04-21
+# SOXL_SM LOC Orders and Parameters - 2025-04-22
 
 # Daily Summary
 
 - **Today's Mode:** aggressive
-- **Current Account Value:** $289902.73
+- **Current Account Value:** $279663.20
 - **Available Cash:** $97650.33
 
 ## Original Orders
@@ -39,7 +39,7 @@
 - **Loss Compound Rate:** 30.0%
 - **Commission Rate:** 0.0%
 - **Trading Start Date:** 2025-02-01
-- **Trading End Date:** 2025-04-21
-- **Trading Period:** 79 days
+- **Trading End Date:** 2025-04-22
+- **Trading Period:** 80 days
 
-Updated at 2025-04-21 03:37:11.332378
+Updated at 2025-04-22 03:31:53.091376
