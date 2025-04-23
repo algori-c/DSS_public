@@ -1,9 +1,9 @@
-# SOXL_JY LOC Orders and Parameters - 2025-04-22
+# SOXL_JY LOC Orders and Parameters - 2025-04-23
 
 # Daily Summary
 
 - **Today's Mode:** aggressive
-- **Current Account Value:** $286087.78
+- **Current Account Value:** $298623.62
 - **Available Cash:** $53774.66
 
 ## Original Orders
@@ -41,7 +41,7 @@
 - **Loss Compound Rate:** 30.0%
 - **Commission Rate:** 0.0%
 - **Trading Start Date:** 2025-02-01
-- **Trading End Date:** 2025-04-22
-- **Trading Period:** 80 days
+- **Trading End Date:** 2025-04-23
+- **Trading Period:** 81 days
 
-Updated at 2025-04-22 03:31:54.312354
+Updated at 2025-04-23 03:32:33.131808
