@@ -1,29 +1,36 @@
-# SOXL_JY LOC Orders and Parameters - 2025-05-19
+# SOXL_JY LOC Orders and Parameters - 2025-05-27
 
 # Daily Summary
 
-- **Today's Mode:** aggressive
-- **Current Account Value:** $411733.39
-- **Available Cash:** $268493.68
+- **Today's Mode:** safe
+- **Current Account Value:** $368198.37
+- **Available Cash:** $5134.24
 
 ## Original Orders
 
 | SIDE | Type | Price | Quantity | Deadline | Buy Date | Buy Price | Buy Mode |
 |------|------|-------|----------|----------|----------|-----------|----------|
-| SELL | LOC | 19.3 | 2227 | 2025-05-22 | 2025-05-14 | 18.84 | 공세 |
-| SELL | LOC | 18.92 | 2199 | 2025-05-23 | 2025-05-15 | 18.47 | 공세 |
+| SELL | MOC | 0.0 | 2199 | 오늘 | 2025-05-15 | 18.47 | 공세 |
 | SELL | LOC | 18.84 | 3363 | 2025-05-27 | 2025-05-16 | 18.39 | 공세 |
-| BUY | LOC | 19.12 | 3377 | 오늘 | - | - | - |
+| SELL | LOC | 18.5 | 3377 | 2025-05-28 | 2025-05-19 | 18.06 | 공세 |
+| SELL | LOC | 18.41 | 3440 | 2025-05-29 | 2025-05-20 | 17.97 | 공세 |
+| SELL | LOC | 17.42 | 3457 | 2025-05-30 | 2025-05-21 | 17.0 | 공세 |
+| SELL | LOC | 16.91 | 3655 | 2025-06-02 | 2025-05-22 | 16.51 | 공세 |
+| SELL | LOC | 16.12 | 3590 | 2025-06-03 | 2025-05-23 | 15.73 | 공세 |
+| BUY | LOC | 16.19 | 2516 | 오늘 | - | - | - |
 
 ## De-duplicated Orders
 
 | Side | Type | Price | Quantity |
 |------|------|-------|----------|
-| SELL | LOC | 19.3 | 2227 |
-| SELL | LOC | 19.13 | 3377 |
-| SELL | LOC | 18.92 | 2185 |
-| BUY | LOC | 18.91 | 14 |
-| BUY | LOC | 18.83 | 3363 |
+| SELL | LOC | 18.84 | 3363 |
+| SELL | LOC | 18.5 | 3377 |
+| SELL | LOC | 18.41 | 3440 |
+| SELL | LOC | 17.42 | 3457 |
+| SELL | LOC | 16.91 | 3655 |
+| SELL | LOC | 16.2 | 2516 |
+| SELL | LOC | 16.12 | 3273 |
+| BUY | LOC | 16.11 | 317 |
 
 ## All Parameters
 
@@ -36,7 +43,7 @@
 - **Loss Compound Rate:** 30.0%
 - **Commission Rate:** 0.0%
 - **Trading Start Date:** 2025-02-01
-- **Trading End Date:** 2025-05-19
-- **Trading Period:** 107 days
+- **Trading End Date:** 2025-05-27
+- **Trading Period:** 115 days
 
-Updated at 2025-05-19 03:44:01.594178
+Updated at 2025-05-27 03:38:53.005937
