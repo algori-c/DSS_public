@@ -1,29 +1,29 @@
-# SOXL_JY LOC Orders and Parameters - 2025-11-10
+# SOXL_JY LOC Orders and Parameters - 2025-11-16
 
 # Daily Summary
 
 - **Today's Mode:** safe
-- **Current Account Value:** $569118.12
-- **Available Cash:** $390888.32
+- **Current Account Value:** $577787.92
+- **Available Cash:** $401246.94
 
 ## Original Orders
 
 | SIDE | Type | Price | Quantity | Deadline | Buy Date | Buy Price | Buy Mode |
 |------|------|-------|----------|----------|----------|-----------|----------|
 | SELL | LOC | 48.65 | 1142 | 2025-12-09 | 2025-11-03 | 48.58 | 안전 |
-| SELL | LOC | 43.07 | 1188 | 2025-12-12 | 2025-11-06 | 43.01 | 안전 |
-| SELL | LOC | 41.8 | 1940 | 2025-12-15 | 2025-11-07 | 41.74 | 안전 |
-| BUY | LOC | 42.97 | 1999 | 오늘 | - | - | - |
+| SELL | LOC | 39.28 | 1273 | 2025-12-18 | 2025-11-13 | 39.22 | 안전 |
+| SELL | LOC | 38.92 | 2128 | 2025-12-19 | 2025-11-14 | 38.86 | 안전 |
+| BUY | LOC | 40.01 | 2147 | 오늘 | - | - | - |
 
 ## De-duplicated Orders
 
 | Side | Type | Price | Quantity |
 |------|------|-------|----------|
 | SELL | LOC | 48.65 | 1142 |
-| SELL | LOC | 43.07 | 1188 |
-| SELL | LOC | 42.98 | 1940 |
-| BUY | LOC | 42.97 | 59 |
-| BUY | LOC | 41.79 | 1940 |
+| SELL | LOC | 40.02 | 2147 |
+| SELL | LOC | 39.28 | 1254 |
+| BUY | LOC | 39.27 | 19 |
+| BUY | LOC | 38.91 | 2128 |
 
 ## All Parameters
 
@@ -36,7 +36,7 @@
 - **Loss Compound Rate:** 30.0%
 - **Commission Rate:** 0.0%
 - **Trading Start Date:** 2025-02-01
-- **Trading End Date:** 2025-11-10
-- **Trading Period:** 282 days
+- **Trading End Date:** 2025-11-16
+- **Trading Period:** 288 days
 
-Updated at 2025-11-10 03:47:23.425562
+Updated at 2025-11-16 03:45:16.058293
